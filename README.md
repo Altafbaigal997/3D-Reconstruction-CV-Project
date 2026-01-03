@@ -364,10 +364,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Altaf Hussain & Muhammad Salman Ahmed**
 - LUMS MS AI
 
-
-**Salman Ahmed**
-- LUMS MS AI Student
-
 ## Acknowledgments
 - OpenCV Community
 - PyTorch Team
